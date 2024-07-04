@@ -1,0 +1,1144 @@
+{
+	"film": [
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/08/16/d7d06930c10c6a3e6b28d68f336040ab-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/01/15/d5b0cd9a1699516b25edaed88ec003d5-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/19/85f58daa5ea04adc5ed7fb78c48bb1b4-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/19/85f58daa5ea04adc5ed7fb78c48bb1b4-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/03/07/9b67f17f8bcd033524f4b083e6634b2a-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2023/03/07/9b67f17f8bcd033524f4b083e6634b2a-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/04/25/c77fb3dde4d1d2538f9d83df9357bda7-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/04/25/c77fb3dde4d1d2538f9d83df9357bda7-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//77bce4d196ceadec59a96ee9629cc040-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//77bce4d196ceadec59a96ee9629cc040-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/19/85f58daa5ea04adc5ed7fb78c48bb1b4-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/19/85f58daa5ea04adc5ed7fb78c48bb1b4-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "6",
+			"title": "Inception",
+			"description": "A mind-bending thriller where a thief, who enters the dreams of others, is tasked with planting an idea into the mind of a CEO.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.8",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/06/e1f2641afc3ee35121ac04ef2387f2af-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/06/e1f2641afc3ee35121ac04ef2387f2af-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "7",
+			"title": "Interstellar",
+			"description": "A journey through space and time as a group of explorers travel through a wormhole in search of a new habitable planet for humanity.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/06/e1f2641afc3ee35121ac04ef2387f2af-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/05/21/4f99b5065c5b6f736b8ce5ef25f4115a-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "8",
+			"title": "Pulp Fiction",
+			"description": "A non-linear narrative following interconnected stories of Los Angeles mobsters, small-time criminals, and a mysterious briefcase.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/06/e1f2641afc3ee35121ac04ef2387f2af-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/05/21/d16f30139bb2bf8159a9468eb4b69f4b-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "9",
+			"title": "The Shawshank Redemption",
+			"description": "A story of hope and perseverance as two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.3",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//666860f3326cdbaa7663071e43e839f3-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//666860f3326cdbaa7663071e43e839f3-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "10",
+			"title": "Example New Release 1",
+			"description": "This is a new release movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.5",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/07/05//a743566fcddee4db3c1ef95604cb8eed-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2023/07/05//a743566fcddee4db3c1ef95604cb8eed-q-700x1002.jpeg"
+			],
+			"type": "new-release",
+			"status": false,
+			"category": "new-releases"
+		},
+		{
+			"id": "11",
+			"title": "Example New Release 2",
+			"description": "This is another new release movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/05/26//b1edc068572dca54384889e0b7519b93-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2023/05/26//b1edc068572dca54384889e0b7519b93-q-700x1002.jpeg"
+			],
+			"type": "new-release",
+			"status": false,
+			"category": "new-releases"
+		},
+		{
+			"id": "19",
+			"title": "Example New Release 4",
+			"description": "This is another new release movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/03/07/9b67f17f8bcd033524f4b083e6634b2a-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2023/03/07/9b67f17f8bcd033524f4b083e6634b2a-q-700x1002.jpeg"
+			],
+			"type": "new-release",
+			"status": false,
+			"category": "new-releases"
+		},
+		{
+			"id": "20",
+			"title": "Example New Release 5",
+			"description": "This is another new release movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2022/05/06/78d63e340d2db8bfddadf24934ad19fc-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2022/05/06/78d63e340d2db8bfddadf24934ad19fc-q-700x1002.jpeg"
+			],
+			"type": "new-release",
+			"status": false,
+			"category": "new-releases"
+		},
+		{
+			"id": "21",
+			"title": "Example New Release 6",
+			"description": "This is another new release movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//77bce4d196ceadec59a96ee9629cc040-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//77bce4d196ceadec59a96ee9629cc040-q-700x1002.jpeg"
+			],
+			"type": "new-release",
+			"status": false,
+			"category": "new-releases"
+		},
+		{
+			"id": "12",
+			"title": "The Matrix",
+			"description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.7",
+			"media": [
+				"https://example.com/detail/90234/the_matrix",
+				"https://files.itv.uz/uploads/content/poster/2024/05/13/3bdc72b682212ac2736abda7f7ccea05-q-700x1002.jpeg"
+			],
+			"type": "top-rated",
+			"status": false,
+			"category": "top-rated"
+		},
+		{
+			"id": "13",
+			"title": "Schindler's List",
+			"description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.9",
+			"media": [
+				"https://example.com/detail/90456/schindlers_list",
+				"https://files.itv.uz/uploads/content/poster/2024/05/13/95d5b685262f8deebdef1370e1471699-q-700x1002.jpeg"
+			],
+			"type": "top-rated",
+			"status": false,
+			"category": "top-rated"
+		},
+		{
+			"id": "14",
+			"title": "Avatar",
+			"description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.8",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/06/e1f2641afc3ee35121ac04ef2387f2af-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/05/10/763159683d679e0a51e130028a21cd33-q-700x1002.jpeg"
+			],
+			"type": "top-rated",
+			"status": false,
+			"category": "top-rated"
+		},
+		{
+			"id": "15",
+			"title": "Titanic",
+			"description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.8",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/06/e1f2641afc3ee35121ac04ef2387f2af-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/04/24/cd7d995ea039bdb3327875adc0dda0c6-q-700x1002.jpeg"
+			],
+			"type": "top-rated",
+			"status": false,
+			"category": "top-rated"
+		},
+		{
+			"id": "16",
+			"title": "Example Movie 1",
+			"description": "This is an example movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/05/13/3bdc72b682212ac2736abda7f7ccea05-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/04/25/2e8a9379128f415cea923bfd328560ad-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "17",
+			"title": "Example New Release 3",
+			"description": "This is another new release movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/03/09/77bd0da4fb8b1223bad6f09b986c878d-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2022/08/06/ea7fb295550f199ae4d4fb2d512bbc74-q-700x1002.jpeg"
+			],
+			"type": "new-release",
+			"status": false,
+			"category": "new-releases"
+		},
+		{
+			"id": "18",
+			"title": "Example Top Rated 1",
+			"description": "This is a top-rated movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.9",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2022/08/11/eb0422932c71435a5ad55ab3ab56adf5-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2022/08/11/eb0422932c71435a5ad55ab3ab56adf5-q-700x1002.jpeg"
+			],
+			"type": "top-rated",
+			"status": false,
+			"category": "top-rated"
+		},
+		{
+			"id": "19",
+			"title": "Example Top Rated 2",
+			"description": "This is another top-rated movie description.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/04/25//614b5b3f8c510190cdcc275016d42350-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/04/25//614b5b3f8c510190cdcc275016d42350-q-700x1002.jpeg"
+			],
+			"type": "top-rated",
+			"status": false,
+			"category": "top-rated"
+		}
+	],
+	"serial": [
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//e52f73468dd33ddbd67daa3b56744d5e-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//e52f73468dd33ddbd67daa3b56744d5e-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//d94b6d3af1889241ccec0623927b4131-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//d94b6d3af1889241ccec0623927b4131-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//fa0b5fff0dc83650f5d5c11c8b094e5a-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//fa0b5fff0dc83650f5d5c11c8b094e5a-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//7e37ef72e29cda3cdb16b80adcee42e4-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//7e37ef72e29cda3cdb16b80adcee42e4-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//2412cfe8f5aa5202a5d3e25f0a719312-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//2412cfe8f5aa5202a5d3e25f0a719312-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "6",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//6ae69964b02d890c0eb9e3d01720d39d-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//6ae69964b02d890c0eb9e3d01720d39d-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "7",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//b4fdb9ec95f3db6504ca70b9900bc00d-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//b4fdb9ec95f3db6504ca70b9900bc00d-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "8",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//5297c8edec92785a18316fe1181aa3bf-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//5297c8edec92785a18316fe1181aa3bf-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "9",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//6890702ed2fe5eabd84e19319e53c0db-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//6890702ed2fe5eabd84e19319e53c0db-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "10",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//8512dc4a03cdcd8dd786b203af977f07-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//8512dc4a03cdcd8dd786b203af977f07-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//21134955bd7cf9614060c85d360f22f5-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//21134955bd7cf9614060c85d360f22f5-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//590ca46eb2c64db2e5920789f584ba2b-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//590ca46eb2c64db2e5920789f584ba2b-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/26//ca77b26cfd155789afae57b5ba4efb6b-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/26//ca77b26cfd155789afae57b5ba4efb6b-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//8a72875b0672b0b4bd5e0a16a8b75008-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//8a72875b0672b0b4bd5e0a16a8b75008-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//3e286efbaf6709b2ffcad17b170aba8b-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//3e286efbaf6709b2ffcad17b170aba8b-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//f989461d43008cd7f48f3293adf8af34-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//f989461d43008cd7f48f3293adf8af34-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//fb47feb2a61d9d837343af63660b2842-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//fb47feb2a61d9d837343af63660b2842-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//53b7b0556762aca594cea95fe29472f8-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//53b7b0556762aca594cea95fe29472f8-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//254f162fce3cc00da13c7ebe84089d27-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//254f162fce3cc00da13c7ebe84089d27-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//66902fd16cee498a685d0f9aeffd94d7-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//66902fd16cee498a685d0f9aeffd94d7-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//5ff911ddf8ce73db1aed3e7d6813a16b-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//5ff911ddf8ce73db1aed3e7d6813a16b-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//e31b9f812b2373dbdb857e1d2be77887-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//e31b9f812b2373dbdb857e1d2be77887-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//cc00263a9fae921c5ad4b6a8cc973508-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//cc00263a9fae921c5ad4b6a8cc973508-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//199c49d1b2e924f03108965eb401f45a-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/24//199c49d1b2e924f03108965eb401f45a-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//2412cfe8f5aa5202a5d3e25f0a719312-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//2412cfe8f5aa5202a5d3e25f0a719312-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//e52f73468dd33ddbd67daa3b56744d5e-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//e52f73468dd33ddbd67daa3b56744d5e-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//d94b6d3af1889241ccec0623927b4131-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//d94b6d3af1889241ccec0623927b4131-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//fa0b5fff0dc83650f5d5c11c8b094e5a-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//fa0b5fff0dc83650f5d5c11c8b094e5a-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//7e37ef72e29cda3cdb16b80adcee42e4-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//7e37ef72e29cda3cdb16b80adcee42e4-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//f0d5952cfb5cae8aba1d6628a2ed8389-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//f0d5952cfb5cae8aba1d6628a2ed8389-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		}
+	],
+	"multifilm": [
+		{
+			"id": "1",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/12/02//c6f881cc257162e6f3cf216489e3a044-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2023/12/02//c6f881cc257162e6f3cf216489e3a044-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "2",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2021/08/17/50321bf35e3b12a905b427aa904aef20-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2021/08/17/50321bf35e3b12a905b427aa904aef20-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "3",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2020/08/21/5fb0af90f9c36d85685c8619b44646e2-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2020/08/21/5fb0af90f9c36d85685c8619b44646e2-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "4",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2021/10/11/33e662f951a618525e48219ee9667b87-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2021/10/11/33e662f951a618525e48219ee9667b87-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "5",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/05/10//20081ecb0de1c9d7522d20fac2a0f912-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/05/10//20081ecb0de1c9d7522d20fac2a0f912-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "6",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/15//c343c06e119a3377d00597e221ed3299-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/15//c343c06e119a3377d00597e221ed3299-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "7",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2022/06/03//13c0d3ea93ebca9c60087681e3150583-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2022/06/03//13c0d3ea93ebca9c60087681e3150583-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "8",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/05/24//f597d1c1b564545894d2c0a1ccf8eda5-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/05/24//f597d1c1b564545894d2c0a1ccf8eda5-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "9",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/01//2d7b46ce49a994bd70182406ed4f5eef-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/01//2d7b46ce49a994bd70182406ed4f5eef-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "10",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2023/11/23//b1400a8c7550dc13c5b5055f725245f5-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2023/11/23//b1400a8c7550dc13c5b5055f725245f5-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "11",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//51f32985c54b9b7243a3883bfcaa5736-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/28//51f32985c54b9b7243a3883bfcaa5736-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "12",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/04/04//3b7c6871f59569a8730a157256dc91e6-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/04/04//3b7c6871f59569a8730a157256dc91e6-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "13",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//2345bf2959fee17b882ad631ec3aeb50-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//2345bf2959fee17b882ad631ec3aeb50-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "14",
+			"title": "War and Peace",
+			"description": "A historical drama depicting the lives of people during war and peace, against the backdrop of events in Europe and Russia during the Napoleonic era.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "8.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/05/17//b686a0a37a965117ef7d46de66441702-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/05/17//b686a0a37a965117ef7d46de66441702-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "15",
+			"title": "The Dark Knight",
+			"description": "A gritty and realistic take on the Batman mythos, where Batman faces off against the Joker, a criminal mastermind set on creating chaos in Gotham City.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "9.0",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//80cedef7823930f194a717784d2a8028-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/25//80cedef7823930f194a717784d2a8028-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "popular"
+		},
+		{
+			"id": "16",
+			"title": "The LEGO Movie 2",
+			"description": "Fun sequel to the adventures in the LEGO world. Emmet, Lucy, and the other heroes face new threats from space and try to save their world.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//3b6dbd1b137acf34b29af846dcaa43e3-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/21//3b6dbd1b137acf34b29af846dcaa43e3-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "17",
+			"title": "I Am Captain",
+			"description": "Two teenagers from Senegal decide to escape home and head to Europe for a better life. Their journey involves a harsh desert and unfriendly sea, where they must face not only the police but also slave hunters. Only a miracle can help them.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "7.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//7fca5d2f55ab00275df4f929abc82a59-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//7fca5d2f55ab00275df4f929abc82a59-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		},
+		{
+			"id": "18",
+			"title": "Super Bride",
+			"description": "A comedy about a young woman who tries to impress her husband's family by pretending to be the perfect bride.",
+			"isBlackFriday": false,
+			"Quality": "Hd",
+			"Language": "English",
+			"Rating": "6.6",
+			"media": [
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//6a0e621459f9ab183244c95c9fecd026-q-700x1002.jpeg",
+				"https://files.itv.uz/uploads/content/poster/2024/06/27//6a0e621459f9ab183244c95c9fecd026-q-700x1002.jpeg"
+			],
+			"type": "famous",
+			"status": false,
+			"category": "famous"
+		}
+	]
+}
